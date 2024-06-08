@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "backend-api": "file:backend",
+    "react-complete-guide": "file:frontend"
+  }
+}
